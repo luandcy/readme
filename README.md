@@ -6,4 +6,4 @@
 
 - 📫 You can reach me at: dechery.luan@gmail.com
 
-- 📄 Here is my personal website: https://luandcy.github.io
+- 📄 Here is my personal website: https://luandcy.github.io (wip 🚧)
