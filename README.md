@@ -5,6 +5,6 @@ This profile hosts my **academic projects** and **research experiments** in Mach
 
 * **Current Focus:** Deep Learning (NLP, Vision), Signal Processing, Time Series.
 * **Tech Stack:** Python (PyTorch, Scikit-learn), SQL, R, Git.
-* **Projects:** SigBERT implementation, CNN vs Scattering Transform, Conformal Prediction.
+* **Current Projects:** SigBERT implementation, CNN vs Scattering Transform, Conformal Prediction.
 
-[🌐 Personal Website](https://luandcy.github.io/mlportfolio/) • [📫 Contact Me](mailto:dechery.luan@gmail.com)
+[🌐 Personal Website](https://luandcy.github.io/mlportfolio/) • [📫 Contact Me](mailto:dechery.luan@gmail.com)(dechery.luan@gmail.com)
