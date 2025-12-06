@@ -1,9 +1,10 @@
-- 👋 Hi, I’m @luandcy
-- 🎓 I’m a student in a Master MIASHS, a program focused on Machine Learning with a strong statistical foundation.
-- 👀 I’m interested in Data Science, Machine Learning, NLP and Data Engineering, with a strong motivation to use data insights to optimize processes and solve real-world problems
-- 🌱 I’m currently working on several projects involving data visualisation, conformal prediction, survival analysis, signal processing, and signature tranform.
-- 📚 My background includes a Licence MIASHS, experience with Python, R, PHP, GIS (R), and hands-on practice with MLOps tools like Dataiku.
+### Hi, I'm Luan Dechery 👋
+**Master 2 Student in Data Science (MIASHS)** based in Lyon, France.
 
-- 📫 You can reach me at: dechery.luan@gmail.com
+This profile hosts my **academic projects** and **research experiments** in Machine Learning.
 
-- 📄 Here is my personal website: https://luandcy.github.io/mlportfolio/
+* **Current Focus:** Deep Learning (NLP, Vision), Signal Processing, Time Series.
+* **Tech Stack:** Python (PyTorch, Scikit-learn), SQL, R, Git.
+* **Projects:** SigBERT implementation, CNN vs Scattering Transform, Conformal Prediction.
+
+[🌐 Personal Website](https://luandcy.github.io/mlportfolio/) • [📫 Contact Me](mailto:dechery.luan@gmail.com)
